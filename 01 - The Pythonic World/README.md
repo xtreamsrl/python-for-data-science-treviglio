@@ -12,20 +12,6 @@ Python’s open-source nature and compatibility with other technologies further 
 
 ![Most popular languages on GitHub](pictures/top-programming-languages.png)
 
-## Use Python for...
-- backend of web applications
-- automating boring stuff
-- data processing
-- linear algebra
-- statistics
-- machine learning
-- data visualization
-- dashboards
-
-## Do NOT Use Python for
-- frontend of general-purpose web apps
-- applications where performance is critical
-
 ## How to Develop in Python
 [PyCharm](jetbrains.com/pycharm/download) and [VS Code](https://code.visualstudio.com/) are the best Python Integrated Development Environments (IDEs).
 VS Code is free and open-source, while PyCharm has a free community edition.
