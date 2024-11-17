@@ -3,7 +3,9 @@ This repository contains the code and data for the Python for Data Science cours
 Each folder contains the theoretical background, the data, and the code for the corresponding topic.
 
 ## 📚 Topics
-1. [Why are you here?](./01%20-%20Why%20are%20you%20here%3F/README.md)
+1. [The Pythonic World](./01%20-%20The%20Pythonic%20World/README.md)
+2. [The Pythonic Way](./02%20-%20The%20Pythonic%20Way/README.md)
+
 
 ## 🥂 How to contribute
 
