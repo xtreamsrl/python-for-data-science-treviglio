@@ -36,13 +36,13 @@ You may well use Python as a calculator:
 But this is not very useful. To create more complex programs, you need to store values in variables.
 A variable is a storage location (identified by a memory address) paired with an associated symbolic name (an identifier), which contains some data referred to as a value.
 
-![img.png](pictures/variable.png)
+![Variables](pictures/variable.png)
 
 However, if everything in memory is represented as bits, how can Python know what a variable is?
 
 The answer is in types. Each variable is associated to a type, which tells Python how to interpret the bits in memory. For example, an integer is represented as a sequence of bits, and Python knows how to interpret them as a number. As we shall see, Python has many different types.
 
-![img.png](pictures/types.png)
+![Types](pictures/types.png)
 
 Python is dynamically typed, so you don't need to declare the type of a variable explicitly.
 
@@ -430,6 +430,7 @@ from math import sqrt as square_root, sin as sine, cos as cosine
 ## 9. Complex Types: Lists, Tuples, and Dictionaries
 
 We covered a lot, but the types we talked about until now were pretty simple. Let's look at some more complex, and useful ones.
+![Data Structures](pictures/data-structures.png)
 
 ### Lists
 
