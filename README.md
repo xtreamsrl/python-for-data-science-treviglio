@@ -1,11 +1,15 @@
 # Python for Data Science
+
 This repository contains the code and data for the Python for Data Science course.
 Each folder contains the theoretical background, the data, and the code for the corresponding topic.
 
 ## 📚 Topics
+
 1. [The Pythonic World](./01%20-%20The%20Pythonic%20World/README.md)
 2. [The Pythonic Way](./02%20-%20The%20Pythonic%20Way/README.md)
-
+3. [Python for Data Science](03%20-%20Python%20for%20Data%20Science/README.md)
+4. [Code for Humans](04%20-%20Code%20for%20Humans/README.md)
+5. [Final Project](05%20-%20Final%20Project/Final%20Project.ipynb)
 
 ## 🥂 How to contribute
 
@@ -28,7 +32,9 @@ pre-commit install
 ```
 
 ## 🤗 Authors
+
 This class was created by the AI team at [xtream](https://xtreamers.io), with contributions from:
+
 - [Emanuele Fabbiani](https://www.linkedin.com/in/emanuelefabbiani/)
 - [Luca Baggi](https://www.linkedin.com/in/lucabaggi/)
 - [Gabriele Orlandi](https://www.linkedin.com/in/gabri-o/)
@@ -36,6 +42,7 @@ This class was created by the AI team at [xtream](https://xtreamers.io), with co
 - [Marta Peroni](https://www.linkedin.com/in/peroni-marta-19145499/)
 
 ## 🔍 Spotted in...
+
 The material in this repository was used in classes and seminars taught at:
 
 - [A2A](https://www.a2a.it/), 2024
