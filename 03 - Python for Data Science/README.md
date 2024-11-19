@@ -47,7 +47,7 @@ Here are some of the most popular libraries and frameworks in the Python data sc
 At the center is **Python**, serving as the base language connecting all these libraries, showcasing its versatility in
 data science, machine learning, and visualization.
 
-![Python Data Science Ecosystem](pictures/python-data-science-ecosystem.png)
+![Python Data Science Ecosystem](pictures/python-ecosystem.png)
 
 ## NumPy
 

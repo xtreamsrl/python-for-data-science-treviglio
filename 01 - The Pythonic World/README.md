@@ -54,9 +54,9 @@ However, tools like [Astral's `uv`](https://docs.astral.sh/uv/) offer enhanced f
     You may want to add the autocompletion feature to your shell. To do so, check the official documentation [here](https://docs.astral.sh/uv/getting-started/installation/).
 
   To check whether `uv` was installed correctly, run:
-    ```shell
-    uv --version
-    ```
+  ```shell
+  uv --version
+  ```
 
 2. Install Python 3.13 using `uv`:
    ```shell
